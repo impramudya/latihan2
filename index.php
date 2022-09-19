@@ -18,7 +18,7 @@
 	</style>
 </head>
 <body>
-	<h1 align="center" color="Black">Rumah Sakit Tidak Sehat</h1><br>
+	<h1 align="center" color="Black">Rumah Sakit Sangat Tidak Sehat</h1><br>
 	<table width="100%" height="500px">
 		<tr>
 			<td>
